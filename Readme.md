@@ -1,1 +1,1 @@
-Landing Page em Tailwind.
+Página de uma loja com bootstrap.
